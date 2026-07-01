@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://du6fkyd57fjbc"
-path="res://.godot/imported/normalCardReward.png-62716a84647b552cbc53bdd97efbf7ac.ctex"
+uid="uid://grh82ln566tw"
+path="res://.godot/imported/rareCardReward.png-dfa7fe9c2aa9e757bd56d803214e1e19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ItsCrychic/images/special_ui/normalCardReward.png"
-dest_files=["res://.godot/imported/normalCardReward.png-62716a84647b552cbc53bdd97efbf7ac.ctex"]
+source_file="res://ItsCrychic/images/special_ui/rareCardReward.png"
+dest_files=["res://.godot/imported/rareCardReward.png-dfa7fe9c2aa9e757bd56d803214e1e19.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ceuvn2aqqtieh"
-path="res://.godot/imported/bossCardReward.png-51c0f1516aee4ee741afdcb7120e4455.ctex"
+uid="uid://dspah6u3o6srx"
+path="res://.godot/imported/discard_pile.png-fbf3b13e8b302d42b2b3a42d1aafeeaa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ItsCrychic/images/special_ui/bossCardReward.png"
-dest_files=["res://.godot/imported/bossCardReward.png-51c0f1516aee4ee741afdcb7120e4455.ctex"]
+source_file="res://ItsCrychic/images/special_ui/discard_pile.png"
+dest_files=["res://.godot/imported/discard_pile.png-fbf3b13e8b302d42b2b3a42d1aafeeaa.ctex"]
 
 [params]
 

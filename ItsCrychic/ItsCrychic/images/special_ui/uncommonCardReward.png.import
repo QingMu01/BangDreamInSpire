@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cboqpkkg8hk1c"
-path="res://.godot/imported/draw_btn.png-8be60ba68d4eba5cf8c2c5850c496ed9.ctex"
+uid="uid://bhgr8fvn3ywil"
+path="res://.godot/imported/uncommonCardReward.png-2da2ebbeaa752ecf1fa5af23acf6d9cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ItsCrychic/images/special_ui/draw_btn.png"
-dest_files=["res://.godot/imported/draw_btn.png-8be60ba68d4eba5cf8c2c5850c496ed9.ctex"]
+source_file="res://ItsCrychic/images/special_ui/uncommonCardReward.png"
+dest_files=["res://.godot/imported/uncommonCardReward.png-2da2ebbeaa752ecf1fa5af23acf6d9cb.ctex"]
 
 [params]
 

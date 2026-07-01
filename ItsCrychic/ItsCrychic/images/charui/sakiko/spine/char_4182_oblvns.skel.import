@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://brlvr175gr3tw"
+path="res://.godot/imported/char_4182_oblvns.skel-d5fcf660d6bd6e4b0d43f105c2061723.spskel"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/sakiko/spine/char_4182_oblvns.skel"
+dest_files=["res://.godot/imported/char_4182_oblvns.skel-d5fcf660d6bd6e4b0d43f105c2061723.spskel"]
+
+[params]
+

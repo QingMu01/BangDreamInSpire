@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://dcras57dahjnh"
+path="res://.godot/imported/char_4182_oblvns_avemujica_1.atlas-63ffeaf5e55980967288cd4c8f65fe5f.spatlas"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/sakiko/spine/char_4182_oblvns_avemujica_1.atlas"
+dest_files=["res://.godot/imported/char_4182_oblvns_avemujica_1.atlas-63ffeaf5e55980967288cd4c8f65fe5f.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

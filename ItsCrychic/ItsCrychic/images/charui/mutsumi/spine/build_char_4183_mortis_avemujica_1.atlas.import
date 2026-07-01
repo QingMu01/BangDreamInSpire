@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://cbofbbqr25mcc"
+path="res://.godot/imported/build_char_4183_mortis_avemujica_1.atlas-9634c0eb6e64689d501f2ce37369fc31.spatlas"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/mutsumi/spine/build_char_4183_mortis_avemujica_1.atlas"
+dest_files=["res://.godot/imported/build_char_4183_mortis_avemujica_1.atlas-9634c0eb6e64689d501f2ce37369fc31.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

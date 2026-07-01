@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://ba65k5jqmkags"
+path="res://.godot/imported/char_4183_mortis.skel-6bb774d733e07c57fa5bb83b09267d8d.spskel"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/mutsumi/spine/char_4183_mortis.skel"
+dest_files=["res://.godot/imported/char_4183_mortis.skel-6bb774d733e07c57fa5bb83b09267d8d.spskel"]
+
+[params]
+

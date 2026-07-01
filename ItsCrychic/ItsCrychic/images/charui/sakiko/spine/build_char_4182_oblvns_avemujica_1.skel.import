@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://bkkwolwboo4tv"
+path="res://.godot/imported/build_char_4182_oblvns_avemujica_1.skel-a7f71b62f4e67940c5adc00681361f4b.spskel"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/sakiko/spine/build_char_4182_oblvns_avemujica_1.skel"
+dest_files=["res://.godot/imported/build_char_4182_oblvns_avemujica_1.skel-a7f71b62f4e67940c5adc00681361f4b.spskel"]
+
+[params]
+

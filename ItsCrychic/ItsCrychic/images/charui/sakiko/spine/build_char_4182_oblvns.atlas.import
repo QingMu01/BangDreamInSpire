@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://80j1l7khpw02"
+path="res://.godot/imported/build_char_4182_oblvns.atlas-de1f1c2f280315c92b21268b61f714af.spatlas"
+
+[deps]
+
+source_file="res://ItsCrychic/images/charui/sakiko/spine/build_char_4182_oblvns.atlas"
+dest_files=["res://.godot/imported/build_char_4182_oblvns.atlas-de1f1c2f280315c92b21268b61f714af.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

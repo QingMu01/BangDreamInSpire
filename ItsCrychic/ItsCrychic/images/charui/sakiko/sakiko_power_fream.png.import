@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7o0l5glch1jx"
-path="res://.godot/imported/character_icon_sakiko.png-41ecc29a9f567554863f0dd1144133b5.ctex"
+uid="uid://cmp437fjh0rii"
+path="res://.godot/imported/sakiko_power_fream.png-bb15ad129a5001b658ab88fa1061525c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ItsCrychic/images/charui/sakiko/character_icon_sakiko.png"
-dest_files=["res://.godot/imported/character_icon_sakiko.png-41ecc29a9f567554863f0dd1144133b5.ctex"]
+source_file="res://ItsCrychic/images/charui/sakiko/sakiko_power_fream.png"
+dest_files=["res://.godot/imported/sakiko_power_fream.png-bb15ad129a5001b658ab88fa1061525c.ctex"]
 
 [params]
 

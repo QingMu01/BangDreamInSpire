@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://2ddr0n3ips3h"
+path="res://.godot/imported/merchant_sakiko.atlas-6cc1c3cf5e6a9cdc04e8114840f5888d.spatlas"
+
+[deps]
+
+source_file="res://BangDreamLib/scenes/merchant/merchant_sakiko.atlas"
+dest_files=["res://.godot/imported/merchant_sakiko.atlas-6cc1c3cf5e6a9cdc04e8114840f5888d.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

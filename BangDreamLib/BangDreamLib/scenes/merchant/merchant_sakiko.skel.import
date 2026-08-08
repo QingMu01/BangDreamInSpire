@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://c6m45kahu3ony"
+path="res://.godot/imported/merchant_sakiko.skel-1c6f2f9206e27426f2ff0594e2c18256.spskel"
+
+[deps]
+
+source_file="res://BangDreamLib/scenes/merchant/merchant_sakiko.skel"
+dest_files=["res://.godot/imported/merchant_sakiko.skel-1c6f2f9206e27426f2ff0594e2c18256.spskel"]
+
+[params]
+

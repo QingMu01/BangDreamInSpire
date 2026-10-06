@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b6qda302jd3xe"
-path="res://.godot/imported/polka_beat_core_flash.png-a48915cf64624e97fd6f170d4420dba6.ctex"
+uid="uid://bjstictevo2pr"
+path="res://.godot/imported/perform_glint.png-37ad505cf3affa9f4a160408d01d4353.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BangDreamLib/images/vfx/polka_beat/polka_beat_core_flash.png"
-dest_files=["res://.godot/imported/polka_beat_core_flash.png-a48915cf64624e97fd6f170d4420dba6.ctex"]
+source_file="res://BangDreamLib/images/vfx/perform_flash/perform_glint.png"
+dest_files=["res://.godot/imported/perform_glint.png-37ad505cf3affa9f4a160408d01d4353.ctex"]
 
 [params]
 

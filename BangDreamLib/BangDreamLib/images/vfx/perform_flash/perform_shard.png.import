@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbownnu5dl78o"
-path="res://.godot/imported/polka_beat_stars.png-e735d777794cab3c2a7e0c4fc22daa23.ctex"
+uid="uid://btfpkxifpmw57"
+path="res://.godot/imported/perform_shard.png-cac9c52bf6037d887cf5151914e69ee6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://BangDreamLib/images/vfx/polka_beat/polka_beat_stars.png"
-dest_files=["res://.godot/imported/polka_beat_stars.png-e735d777794cab3c2a7e0c4fc22daa23.ctex"]
+source_file="res://BangDreamLib/images/vfx/perform_flash/perform_shard.png"
+dest_files=["res://.godot/imported/perform_shard.png-cac9c52bf6037d887cf5151914e69ee6.ctex"]
 
 [params]
 
